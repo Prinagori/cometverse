@@ -2,6 +2,8 @@
 
 A Flask-based web application that acts as a conversational bot (CometVerse) for the Jindal School of Management (JSOM) at UT Dallas. The bot uses the Groq API to provide answers to questions based on pre-scraped data stored in a JSON file.
 
+![demo](Images/Cometverse_img.png)
+
 ## Features
 - Answers questions about JSOM using pre-scraped web content.
 - Provides audio responses via text-to-speech (gTTS).
@@ -74,5 +76,3 @@ A Flask-based web application that acts as a conversational bot (CometVerse) for
 - gTTS for text-to-speech functionality.
 - UT Dallas Jindal School of Management for the content inspiration.
 
-## Issues
-Report any bugs or feature requests in the [Issues](https://github.com/your-username/your-repo/issues) tab.
